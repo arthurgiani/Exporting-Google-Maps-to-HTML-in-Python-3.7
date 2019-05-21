@@ -22,6 +22,8 @@ Your script should have one ' \ ' before changes, so you must have two in the en
 
 As a part of this repository, I uploaded a Jupyer Notebook where you'll have an example of figure export process to HTML file. In this JB, I've made a heatmap based on total amount of contribution that every city of New York State provided for 2016 elections campaign.
 
+And thats the result 
+
 Enjoy !
 
 
